@@ -167,6 +167,9 @@ namespace Subb_Lab11
                         monarchsList += s.LeaderName + " ";
                 }
 
+            if (monarchsList == "")
+                monarchsList = "There are no monarchs on the continent";
+
             return monarchsList;
         }
 
@@ -200,9 +203,13 @@ namespace Subb_Lab11
                     aver += buf.PresidentTerm;
                     count++;
                 }
-
-            aver /= (double)count;
-            return aver;
+            if (count == 0)
+                return aver;
+            else
+            {
+                aver /= (double)count;
+                return aver;
+            }
         }
 
 
@@ -211,16 +218,17 @@ namespace Subb_Lab11
         // Continents input
         public static string ContinentsInput()
         {
-            string[] continents = { "Asia", "Africa", "America", "Oceania" };
+            string[] continents = { "Asia", "Africa", "America", "Oceania", "Europe" };
 
             Console.WriteLine();
             Console.WriteLine(@"Choose one of the continents:
 1. Asia
 2. Africa
 3. America
-4. Oceania");
+4. Oceania
+5. Europe");
 
-            int choice = ChooseInput(4);
+            int choice = ChooseInput(5);
 
             Console.WriteLine();
 

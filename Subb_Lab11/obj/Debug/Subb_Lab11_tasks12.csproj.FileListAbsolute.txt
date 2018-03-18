@@ -17,3 +17,10 @@ E:\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11.pdb
 E:\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.exe
 E:\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.pdb
 E:\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11_tasks12.csprojResolveAssemblyReference.cache
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.exe.config
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.exe
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.pdb
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11_tasks12.csprojResolveAssemblyReference.cache
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11_tasks12.csproj.CoreCompileInputs.cache
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11.exe
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11.pdb

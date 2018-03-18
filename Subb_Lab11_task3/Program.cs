@@ -18,7 +18,7 @@ namespace Subb_Lab11_task3
             Monarchy monarchy = new Monarchy("Belgium", "Philippe", 11358357, 189, "Europe", "The House of Saxe-Coburg and Gotha");
 
             // Kingdom class.
-            Kingdom kingdom = new Kingdom("the Kingdom of Saudi Arabia", "Salman", 33000000, 87, "Asia", "The Sudairi Seven");
+            Kingdom kingdom = new Kingdom("The Kingdom of Saudi Arabia", "Salman", 33000000, 87, "Asia", "The Sudairi Seven");
 
             // Array of objects of classes that use IComparable interface
             IComparable[] comparable = new IComparable[3];
@@ -115,10 +115,10 @@ namespace Subb_Lab11_task3
             // Binary search by population
             int index = Array.BinarySearch(abstrState, buffer, new ComparePopulation());
             if (index == -1)
-                Console.WriteLine("An object with the entered population doesn't exist in the array\n");
+                Console.WriteLine("State with the entered population doesn't exist in the array\n");
             else
             {
-                Console.WriteLine("Found object's index: " + index + "\n");
+                Console.WriteLine("Found state's index: " + index + "\n");
                 abstrState[index].Show();
             }
         }

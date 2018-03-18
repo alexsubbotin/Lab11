@@ -31,3 +31,10 @@ C:\Users\Алексей\Desktop\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11
 C:\Users\Алексей\Desktop\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11_task3.csproj.CoreCompileInputs.cache
 C:\Users\Алексей\Desktop\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11_task3.exe
 C:\Users\Алексей\Desktop\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11_task3.pdb
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11_task3\bin\Debug\Subb_Lab11_task3.exe.config
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11_task3\bin\Debug\Subb_Lab11_task3.exe
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11_task3\bin\Debug\Subb_Lab11_task3.pdb
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11_task3.csprojResolveAssemblyReference.cache
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11_task3.csproj.CoreCompileInputs.cache
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11_task3.exe
+E:\Everything\вшэ\Программирование\Lab_11_Inheritance_Polymorphism\Subb_Lab11\Subb_Lab11_task3\obj\Debug\Subb_Lab11_task3.pdb

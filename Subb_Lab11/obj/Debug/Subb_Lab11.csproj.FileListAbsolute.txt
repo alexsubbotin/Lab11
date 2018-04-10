@@ -1,7 +1,0 @@
-c:\users\алексей\source\repos\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.exe.config
-c:\users\алексей\source\repos\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.exe
-c:\users\алексей\source\repos\Subb_Lab11\Subb_Lab11\bin\Debug\Subb_Lab11.pdb
-c:\users\алексей\source\repos\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11.csprojResolveAssemblyReference.cache
-c:\users\алексей\source\repos\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11.csproj.CoreCompileInputs.cache
-c:\users\алексей\source\repos\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11.exe
-c:\users\алексей\source\repos\Subb_Lab11\Subb_Lab11\obj\Debug\Subb_Lab11.pdb
